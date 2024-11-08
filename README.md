@@ -47,3 +47,10 @@ Docker & Docker Compose
 AWS account (for CloudFormation deployment)
 Python 3.8+
 pip (Python package manager)
+
+
+
+
+Notes::::::
+I've attached my solution for the task, but this code reflects two days of work rather than a full week, as I had to return to my military service due to my leave has ended. I tried to write organized code, but I can’t claim this is a perfect or complete solution to the task. I'm ready for the technical interview.
+Note: My military service will end in just two weeks.
